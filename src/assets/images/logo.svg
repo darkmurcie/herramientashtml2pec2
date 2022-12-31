@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="107.38959mm"
+   height="97.609016mm"
+   viewBox="0 0 107.38959 97.609016"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-45.843846,-73.557928)">
+    <rect
+       style="fill:#000000;stroke-width:0.144643"
+       id="rect111"
+       width="6.5910625"
+       height="96.250244"
+       x="56.951859"
+       y="73.695763" />
+    <rect
+       style="fill:#000000;stroke-width:0.144643"
+       id="rect111-6"
+       width="6.5910625"
+       height="96.250244"
+       x="-141.25807"
+       y="54.538071"
+       transform="rotate(-89.65124)" />
+    <rect
+       style="fill:#000000;stroke-width:0.0906753"
+       id="rect111-6-7"
+       width="6.5910258"
+       height="37.825714"
+       x="-111.33512"
+       y="-169.68359"
+       transform="matrix(-0.99998897,-0.004696,0.00752076,-0.99997172,0,0)" />
+    <rect
+       style="fill:#000000;stroke-width:0.148256"
+       id="rect111-3"
+       width="6.5910625"
+       height="101.11856"
+       x="33.385468"
+       y="77.278481"
+       transform="matrix(1,0,0.30654761,0.95185533,0,0)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       id="path278"
+       d="m 85.831825,129.67979 c 2.730998,0.99483 0.0064,4.17214 -1.653458,4.5391 -4.498056,0.99443 -7.586369,-3.92145 -7.424736,-7.84601 0.289124,-7.02012 7.57644,-11.22252 14.03857,-10.31038 9.483439,1.33861 14.933529,11.26912 13.196009,20.23113 -2.31583,11.94495 -14.973604,18.67445 -26.423678,16.08165 -14.408749,-3.26277 -22.43045,-18.68335 -18.96729,-32.61624 4.19435,-16.87459 22.395984,-26.195101 38.808794,-21.852927 19.341924,5.117107 29.965184,26.110397 24.738564,45.001347 -6.03433,21.81036 -29.826,33.73888 -51.193903,27.62421 C 46.671129,163.5838 33.435596,136.98922 40.440853,113.14521 48.299692,86.39583 77.700365,71.852036 104.01987,79.749724 c 29.21964,8.767932 45.07262,40.977036 36.28112,69.771576"
+       transform="matrix(1.0284939,0,0,1.0267351,6.3091671,-5.6988285)" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;fill:#000000;stroke-width:0.264583"
+       x="109.93604"
+       y="151.44691"
+       id="text402"><tspan
+         id="tspan400"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="109.93604"
+         y="151.44691">EMPLE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;fill:#000000;stroke-width:0.264583"
+       x="84.439537"
+       y="134.18544"
+       id="text402-5"><tspan
+         id="tspan400-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="84.439537"
+         y="134.18544">IR</tspan></text>
+  </g>
+</svg>
