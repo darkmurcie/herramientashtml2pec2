@@ -213,14 +213,25 @@ p{
   width: 200px;
 }
 
-#firstAppa, 
-#secondAppa,
-#thirdAppa,
-#fourthAppa > img {
+#firstAppa > img {
   height: 200px;
   width: 200px;
 }
 
+#secondAppa > img {
+  height: 200px;
+  width: 200px;
+}
+
+#thirdAppa > img {
+  height: 200px;
+  width: 200px;
+}
+
+#fourthAppa > img {
+  height: 200px;
+  width: 200px;
+}
 
 #contentDiv {
   display: flex;
