@@ -213,6 +213,15 @@ p{
   width: 200px;
 }
 
+#firstAppa, 
+#secondAppa,
+#thirdAppa,
+#fourthAppa > img {
+  height: 200px;
+  width: 200px;
+}
+
+
 #contentDiv {
   display: flex;
   flex-direction: column;
